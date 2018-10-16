@@ -1,0 +1,9 @@
+[package]
+name = "hello-cpal"
+version = "0.1.0"
+authors = ["Stephen Sherratt <sfsherratt@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+cpal = "0.8"
+simon = "0.1"
